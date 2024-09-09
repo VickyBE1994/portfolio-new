@@ -46,7 +46,7 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS", "React", "Bootstrap"],
     links:[
       { Github:"https://github.com/VickyBE1994/spotify-clone",
-     live:"https://spotify-clone-qo6v.vercel.app/"}
+     live:"http://spotify-clone-qo6v.vercel.app/"}
    ]
  
   },
