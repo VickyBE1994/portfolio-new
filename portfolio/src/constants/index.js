@@ -58,7 +58,7 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS",  "Express", "mongoDb"],
     links:[
       { Github:"https:github.com/VickyBE1994/BLog-App",
-     live:"https:blog-app-vt0v.onrender.com/"}
+     live:"https://blog-app-vt0v.onrender.com/"}
    ]
   },
   
