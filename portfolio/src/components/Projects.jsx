@@ -4,7 +4,10 @@ import { PROJECTS } from "../constants";
 import { motion } from "framer-motion";
 
 
+
+
 const Projects = () => {
+ 
   
   return (
     <div className="border-b border-neutral-900 pb-4">
@@ -41,14 +44,14 @@ const Projects = () => {
               })}
             </motion.div>
             {project.links.map((links,index)=>{
-   return <button key={index}  className="mb-8 flex flex-wrap lg:justify-center  gap-4 p-4 mr-2 rounded bg-neutral-900  text-sm font-lg text-white">
+   return <button key={index}  className="mb-8 flex flex-col items-center justify-between font-semibold uppercase lg:space-between p-3 gap-4   rounded bg-neutral-900  text-sm font-lg text-white">
            <a 
                 href={links.Github} 
                 target="_blank" 
                rel="noopener noreferrer" 
                 
               >
-                {links.Github}
+               github
               </a>
               <a 
                 href={links.live} 
@@ -56,7 +59,7 @@ const Projects = () => {
                rel="noopener noreferrer" 
                 
               >
-                {links.live}
+             live demo
               </a>
             </button>
             

@@ -21,8 +21,8 @@ export const PROJECTS = [
       "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
     links:[
-       { Github:"https://food-del-theta.vercel.app/",
-      live:"https://github.com/VickyBE1994/FOOD-DEL"}
+       { live:"https://food-del-theta.vercel.app/",
+      Github:"https://github.com/VickyBE1994/FOOD-DEL"}
     ]
   
   },
@@ -33,8 +33,8 @@ export const PROJECTS = [
       "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
     technologies: ["HTML", "CSS", "Firebase","mongoDb"],
     links:[
-      { Github:"https:github.com/VickyBE1994/REAL-ESTATE",
-     live:"https://real-estate-u7hy.vercel.app/"}
+      { Github:"https://github.com/VickyBE1994/mern-estate",
+     live:"https://mern-estate-5sig.onrender.com/"}
    ]
   },
   
