@@ -44,7 +44,7 @@ const Projects = () => {
               })}
             </motion.div>
             {project.links.map((links,index)=>{
-   return <button key={index}  className="mb-8 flex flex-col items-center justify-between font-semibold uppercase lg:space-between p-3 gap-4   rounded bg-neutral-900  text-sm font-lg text-white">
+   return <button key={index}  className="mb-8 flex flex-col items-center justify-between font-semibold uppercase lg:space-between p-3 gap-4   rounded bg-neutral-900  text-sm font-lg text-purple-900">
            <a 
                 href={links.Github} 
                 target="_blank" 
