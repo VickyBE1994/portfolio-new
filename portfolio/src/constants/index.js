@@ -2,6 +2,7 @@ import project1 from "../assets/assets/projects/project-1.png";
 import project2 from "../assets/assets/projects/project-2.jpg";
 import project3 from "../assets/assets/projects/project-3.png";
 import project4 from "../assets/assets/projects/project-4.jpg";
+import project5 from "../assets/assets/projects/project-5.jpg";
 
 export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. I have honed my skills in front-end technologies like React and , as well as back-end technologies like Node.js, MySQL,  and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
@@ -59,6 +60,17 @@ export const PROJECTS = [
     links:[
       { Github:"https:github.com/VickyBE1994/BLog-App",
      live:"http://blog-app-vt0v.onrender.com/"}
+   ]
+  },
+  {
+    title: "E-Commerce website",
+    image: project5,
+    description:
+      "A platform for creating and publishing E-Comm website, with features like rich text editing, commenting, and user profiles.",
+    technologies: ["HTML", "CSS",  "Express", "mongoDb","stripe"],
+    links:[
+      { Github:"https:github.com/VickyBE1994/E-COM",
+     live:"https://e-com-git-main-vigneshs-projects-45456772.vercel.app/"}
    ]
   },
   
