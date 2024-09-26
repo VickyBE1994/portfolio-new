@@ -2,7 +2,7 @@ import project1 from "../assets/assets/projects/project-1.png";
 import project2 from "../assets/assets/projects/project-2.jpg";
 import project3 from "../assets/assets/projects/project-3.png";
 import project4 from "../assets/assets/projects/project-4.jpg";
-import project5 from "../assets/assets/projects/project-5.jpg";
+import project5 from "../assets/assets/projects/project-5.png";
 
 export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. I have honed my skills in front-end technologies like React and , as well as back-end technologies like Node.js, MySQL,  and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
