@@ -4,6 +4,7 @@ import project3 from "../assets/assets/projects/project-3.png";
 import project4 from "../assets/assets/projects/project-4.jpg";
 import project5 from "../assets/assets/projects/project-5.png";
 
+
 export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. I have honed my skills in front-end technologies like React and , as well as back-end technologies like Node.js, MySQL,  and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
 export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges.I complete a Full stack Developer course at  GUVI is an IIT-M & IIM-A incubated Ed-tech company that focuses on
